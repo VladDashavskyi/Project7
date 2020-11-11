@@ -26,7 +26,7 @@ int main()
 		cout << "П'ятниця: \n\n --- 8:30 Мат.аналiз \n --- 10:10 Дискретна математика \n --- 11:50 Мат.аналiз\n";
 		break;
 	default:
-		std::cout << "Вихiдний";
+		std::cout << "Day off";
 		break;
 	
 	}
